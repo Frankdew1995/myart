@@ -1,0 +1,30 @@
+#inspired{
+  font-family: 'Dancing Script', cursive;
+  width:50%;
+  text-align:center;
+  margin:auto;
+}
+table{
+  margin-top: 30px;
+  margin:auto;
+}
+td{
+  background-color: black;
+  height: 300px;
+  width: 200px;
+}
+#a{
+background-color:  #FFCDB2;
+}
+#b{
+  background-color: #FFB4A2;
+}
+#c{
+  background-color: #E5989B;
+}
+#d{
+  background-color: #B5838D;
+}
+#e{
+  background-color: #6D6875;
+}
